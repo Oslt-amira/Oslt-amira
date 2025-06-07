@@ -62,20 +62,20 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 ---
 
 ## 👾 Tech Stack:
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f2833?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-2f2833?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-2f2833?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-2f2833?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-2f2833?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-2f2833?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-2f2833?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-2f2833?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-2f2833?style=for-the-badge&logo=greensock&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f2833?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-2f2833?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2f2833?style=for-the-badge&logo=Prisma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2f2833?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2f2833?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -83,24 +83,25 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" />
   
   <br />
   
-  <img src="https://streak-stats.demolab.com?user=Oslt-amira&theme=shadow_blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Oslt-amira&theme=shadow_green&hide_border=true" />
   
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=shadow_blue&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=shadow_green&hide_border=true&layout=compact" />
 
 </div>
 
 
 ---
 
-## 🍄Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/oslt-amira" target="_blank"> 🔎 Let's connect on LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  ## 🍄Connect with Me
+
+  <a href="https://www.linkedin.com/in/oslt-amira" target="_blank"> 🔎 Reach out on LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:amira.oslt13@gmail.com"> ✉️ Send me an Email</a>
 </p>
 
