@@ -83,23 +83,23 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
   
   <br />
   
-  <img src="https://streak-stats.demolab.com?user=Oslt-amira&theme=shadow_green&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Oslt-amira&theme=shadow_blue&hide_border=true" />
   
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=shadow_green&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=shadow_blue&hide_border=true&layout=compact" />
 
 </div>
 
 
 ---
+  ## 🍄Connect with Me
 
 <p align="center">
-  ## 🍄Connect with Me
 
   <a href="https://www.linkedin.com/in/oslt-amira" target="_blank"> 🔎 Reach out on LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:amira.oslt13@gmail.com"> ✉️ Send me an Email</a>
