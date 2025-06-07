@@ -80,21 +80,10 @@ I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **Postgre
 ## 🤖 GitHub Stats:
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
   
   <br />
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=oslt-amira&theme=shadow_blue&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=oslt-amira&show_icons=true&theme=transparent" />
-
-  
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <br />
-  
-[![](https://visitcount.itsvg.in/api?id=oslt-amira&icon=0&color=0)](https://visitcount.itsvg.in)
+    <br />
 </div>
 
 
