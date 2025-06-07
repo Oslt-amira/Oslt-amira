@@ -76,22 +76,11 @@ I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **Postgre
 ![Docker](https://img.shields.io/badge/Docker-2f2833?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 🤖 GitHub Stats:
-
 <div align="center">
-  
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=oslt-amira&theme=shadow_blue&hide_border=true" />
-    <br />
+  <br />
 </div>
-
-
-
-
-
-
-
 ---
 
 ## 🍄Connect with Me
