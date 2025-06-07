@@ -20,7 +20,7 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 ### 👾 Currently:
 - 🚧 Reimagining creative productivity with **Kleo**
 - 🧠 Building **Orbx**, an AI-powered README generator ( stay tuned )
-- 🧬 Exploring emotion-driven design systems and AI interfaces
+- 🧬 Exploring emotion-driven design systems and interfaces
 
 ---
 
@@ -28,20 +28,20 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 ### [📚 Alexis – AI-Powered Learning Companion](https://www.youtube.com/watch?v=AzM8jTL0nrk)
 > Personalized education tool built with LLMs + RAG. Reduced study time by 25% while improving comprehension.
-> Click on Title for a preview.
+`Click on Title for a preview.`
 
 - 🔧 Stack: `NestJS`, `Next.js`, `LLMs`, `RAG`, `Framer Motion`
 - 🎯 Built scalable APIs, real-time content flows, and a minimalist adaptive UI
-- 💻 [Repo](https://github.com/Oslt-amira/AlexisAI-frontend)
+- 💻 [View Repository](https://github.com/Oslt-amira/AlexisAI-frontend)
 
 ---
 
 ### [📓 Kleo – Creative Calendar Reimagined](https://kleo-two.vercel.app/)
 > From structured productivity to creative archive. Emotionally intelligent, AI-powered interface for creatives.
-> Click on Title for a preview.
+`Click on Title for a preview.`
 - 🔧 Stack: `Next.js`, `Drizzle ORM`, `PostgreSQL`, `Tailwind`, `GSAP`, `OpenAI`
 - ✨ Cinematic UI, multimedia entries, and storytelling memory features
-- 💻 [Repo](https://github.com/Oslt-amira/-kleo-)
+- 💻 [View Repository](https://github.com/Oslt-amira/-kleo-)
 
 ---
 
@@ -50,15 +50,15 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 - 🔧 Stack: `Next.js`, `NestJS`, `Drizzle ORM`, `LLMs`
 - 📉 Goal: Reduce dev onboarding time by ~30%
-- 💻 [Repo] Currently private , stay tuned for the launch.
+- 💻 Repository is currently private , stay tuned for the launch.
 
 ---
 
-> I’m building a few private projects I can’t wait to share soon ✨
+> I’m building a few additional private projects I can’t wait to share soon ✨
 
 ---
 
-## 💻 Tech Stack:
+## 👾 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -76,15 +76,15 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Oslt-amira&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=tokyonight&hide_border=true&layout=compact)
+## 🤖 GitHub Stats:🤖
+![](https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Oslt-amira&theme=moltack&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=moltackt&hide_border=true&layout=compact)
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-oueslati-64a7a4294)  
+## 🍄Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/oslt-amira)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amira.oslt13@gmail.com)
 
 ---
