@@ -1,12 +1,10 @@
-# 💫 About Me:
+# 🍄 About Me:
 Hey, I’m **Amira** — a full-stack software engineer and creative technologist crafting digital experiences at the intersection of code, AI, and motion-driven design. 
 I specialize in building intuitive, scalable products that solve real problems with technical precision and creative flair.
 
 I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**, and elevate **UX** through expressive motion with **Framer Motion** and **GSAP**. My work integrates **AI (LLMs, RAG pipelines)** to create **intelligent**, **user-centric** solutions that feel **alive** and **emotionally** resonant.
 
-> 🍄 If it’s technically complex and emotionally rich, I’m probably already prototyping it.
-
-I’m here to bridge logic and emotion — **make technology feel as human as the people who use it.**
+>  I’m here to bridge logic and emotion — **make technology feel as human as the people who use it.**
 ---
 
 ### Core Stack:
@@ -97,10 +95,10 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 
 ---
-  ## 🍄Connect with Me
+
+## 🍄Connect with Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/oslt-amira" target="_blank"> 🔎 Reach out on LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:amira.oslt13@gmail.com"> ✉️ Send me an Email</a>
 </p>
