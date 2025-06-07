@@ -4,53 +4,53 @@ I specialize in building intuitive, scalable products that solve real problems w
 
 I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**, and elevate **UX** through expressive motion with **Framer Motion** and **GSAP**. My work integrates **AI (LLMs, RAG pipelines)** to create **intelligent**, **user-centric** solutions that feel **alive** and **emotionally** resonant.
 
-> 💡 If it’s technically complex and emotionally rich, I’m probably already prototyping it.
+> 🍄 If it’s technically complex and emotionally rich, I’m probably already prototyping it.
 
 I’m here to bridge logic and emotion — **make technology feel as human as the people who use it.**
 ---
 
-### 🛠 Core Stack:
+### Core Stack:
 `TypeScript` · `Next.js` · `NestJS` · `PostgreSQL` · `Drizzle ORM` · `React` · `Tailwind CSS` · `Framer Motion` · `GSAP` · `LLMs` · `RAG pipelines`
 
-### 🧪 Also Familiar With:
+### Also Familiar With:
 `Prisma` · `tRPC` · `Clerk` · `React Native` · `Express.js` · `Figma` · `Docker (basic)` · `GitHub Actions` · `DevOps principles`
 
 ---
 
 ### 👾 Currently:
-- 🚧 Reimagining creative productivity with **Kleo**
-- 🧠 Building **Orbx**, an AI-powered README generator ( stay tuned )
-- 🧬 Exploring emotion-driven design systems and interfaces
+- Reimagining creative productivity with **Kleo**
+- Building **Orbx**, an AI-powered README generator ( stay tuned )
+- Exploring emotion-driven design systems and interfaces
 
 ---
 
-## 🌟 Featured Projects
+## 🔮 Featured Projects
 
-### [📚 Alexis – AI-Powered Learning Companion](https://www.youtube.com/watch?v=AzM8jTL0nrk)
+### [Alexis – AI-Powered Learning Companion](https://www.youtube.com/watch?v=AzM8jTL0nrk)
 > Personalized education tool built with LLMs + RAG. Reduced study time by 25% while improving comprehension.
 `Click on Title for a preview.`
 
-- 🔧 Stack: `NestJS`, `Next.js`, `LLMs`, `RAG`, `Framer Motion`
-- 🎯 Built scalable APIs, real-time content flows, and a minimalist adaptive UI
-- 💻 [View Repository](https://github.com/Oslt-amira/AlexisAI-frontend)
+- 🪐 Stack: `NestJS`, `Next.js`, `LLMs`, `RAG`, `Framer Motion`
+- ✨ Built scalable APIs, real-time content flows, and a minimalist adaptive UI
+- 💡 [View Repository](https://github.com/Oslt-amira/AlexisAI-frontend)
 
 ---
 
-### [📓 Kleo – Creative Calendar Reimagined](https://kleo-two.vercel.app/)
+### [ Kleo – Creative Calendar Reimagined](https://kleo-two.vercel.app/)
 > From structured productivity to creative archive. Emotionally intelligent, AI-powered interface for creatives.
 `Click on Title for a preview.`
-- 🔧 Stack: `Next.js`, `Drizzle ORM`, `PostgreSQL`, `Tailwind`, `GSAP`, `OpenAI`
+- 🪐 Stack: `Next.js`, `Drizzle ORM`, `PostgreSQL`, `Tailwind`, `GSAP`, `OpenAI`
 - ✨ Cinematic UI, multimedia entries, and storytelling memory features
-- 💻 [View Repository](https://github.com/Oslt-amira/-kleo-)
+- 💡 [View Repository](https://github.com/Oslt-amira/-kleo-)
 
 ---
 
-### [🧠 Orbx – README Generator & Mindmapper](https://github.com/Oslt-amira/orbx)
+### [Orbx – README Generator & Mindmapper](https://github.com/Oslt-amira/orbx)
 > AI-powered tool that converts GitHub repos into structured documentation and mindmaps for better onboarding.
 
-- 🔧 Stack: `Next.js`, `NestJS`, `Drizzle ORM`, `LLMs`
-- 📉 Goal: Reduce dev onboarding time by ~30%
-- 💻 Repository is currently private , stay tuned for the launch.
+- 🪐 Stack: `Next.js`, `NestJS`, `Drizzle ORM`, `LLMs`
+- ✨ Goal: Reduce dev onboarding time by ~30%
+- 💡 Repository is currently private , stay tuned for the launch.
 
 ---
 
@@ -76,7 +76,7 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 ---
 
-## 🤖 GitHub Stats:🤖
+## 🤖 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Oslt-amira&theme=moltack&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=moltackt&hide_border=true&layout=compact)
