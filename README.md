@@ -50,9 +50,10 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 ### [Orbx – README Generator & Mindmapper](https://github.com/Oslt-amira/orbx)
 > AI-powered tool that converts GitHub repos into structured documentation and mindmaps for better onboarding.
 
+`Stay tuned for the launch !`
 - 🪐 Stack: `Next.js`, `NestJS`, `Drizzle ORM`, `LLMs`
 - ✨ Goal: Reduce dev onboarding time by ~30%
-- 💡 Repository is currently private , stay tuned for the launch.
+- 💡 Repository is currently private.
 
 ---
 
