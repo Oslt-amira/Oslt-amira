@@ -28,6 +28,7 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 ### [Alexis – AI-Powered Learning Companion](https://www.youtube.com/watch?v=AzM8jTL0nrk)
 > Personalized education tool built with LLMs + RAG. Reduced study time by 25% while improving comprehension.
+
 `Click on Title for a preview.`
 
 - 🪐 Stack: `NestJS`, `Next.js`, `LLMs`, `RAG`, `Framer Motion`
@@ -38,6 +39,7 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 
 ### [ Kleo – Creative Calendar Reimagined](https://kleo-two.vercel.app/)
 > From structured productivity to creative archive. Emotionally intelligent, AI-powered interface for creatives.
+
 `Click on Title for a preview.`
 - 🪐 Stack: `Next.js`, `Drizzle ORM`, `PostgreSQL`, `Tailwind`, `GSAP`, `OpenAI`
 - ✨ Cinematic UI, multimedia entries, and storytelling memory features
@@ -77,15 +79,16 @@ I’m here to bridge logic and emotion — **make technology feel as human as th
 ---
 
 ## 🤖 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Oslt-amira&theme=moltack&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=moltackt&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Oslt-amira&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=onedark&hide_border=true&layout=compact)
 
 ---
 
 ## 🍄Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/oslt-amira)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amira.oslt13@gmail.com)
+
+[Let's connect on LinkedIn](www.linkedin.com/in/oslt-amira)  
+[Send me an Email](mailto:amira.oslt13@gmail.com)
 
 ---
 
