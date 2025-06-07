@@ -1,5 +1,5 @@
-# 🍄 About Me:
-Hey, I’m **Amira** — a full-stack software engineer and creative technologist crafting digital experiences at the intersection of code, AI, and motion-driven design. 
+# 🍄 Hey, I’m **Amira** 
+— a full-stack software engineer and creative technologist crafting digital experiences at the intersection of code, AI, and motion-driven design. 
 I specialize in building intuitive, scalable products that solve real problems with technical precision and creative flair.
 
 I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**, and elevate **UX** through expressive motion with **Framer Motion** and **GSAP**. My work integrates **AI (LLMs, RAG pipelines)** to create **intelligent**, **user-centric** solutions that feel **alive** and **emotionally** resonant.
