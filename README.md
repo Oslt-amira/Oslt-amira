@@ -1,15 +1,12 @@
 # 💫 About Me:
-Hey, I’m **Amira** — a full-stack engineer by day, creative technologist by conviction. I build systems that don’t just *work* — they *feel*.
+Hey, I’m **Amira** — a full-stack software engineer and creative technologist crafting digital experiences at the intersection of code, AI, and motion-driven design. 
+I specialize in building intuitive, scalable products that solve real problems with technical precision and creative flair.
 
-At the intersection of **code, AI**, and **motion design**, I craft expressive digital experiences that move with intent and think with empathy. I specialize in **TypeScript**, **Next.js**, and **NestJS**, and bring interfaces to life with **Framer Motion**, **GSAP**, and real-time **LLM pipelines**.
-
-From generative README tools to cinematic productivity apps, I architect systems that are as scalable as they are soulful.
+I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**, and elevate **UX** through expressive motion with **Framer Motion** and **GSAP**. My work integrates **AI (LLMs, RAG pipelines)** to create **intelligent**, **user-centric** solutions that feel **alive** and **emotionally** resonant.
 
 > 💡 If it’s technically complex and emotionally rich, I’m probably already prototyping it.
 
-Whether I’m designing adaptive UIs, embedding AI workflows, or choreographing microinteractions, my mission is simple:  
-**Make tech human again.**
-
+I’m here to bridge logic and emotion — **make technology feel as human as the people who use it.**
 ---
 
 ### 🛠 Core Stack:
@@ -22,7 +19,7 @@ Whether I’m designing adaptive UIs, embedding AI workflows, or choreographing 
 
 ### 👾 Currently:
 - 🚧 Reimagining creative productivity with **Kleo**
-- 🧠 Building **Orbx**, an AI-powered README generator
+- 🧠 Building **Orbx**, an AI-powered README generator ( stay tuned )
 - 🧬 Exploring emotion-driven design systems and AI interfaces
 
 ---
@@ -31,19 +28,20 @@ Whether I’m designing adaptive UIs, embedding AI workflows, or choreographing 
 
 ### [📚 Alexis – AI-Powered Learning Companion](https://www.youtube.com/watch?v=AzM8jTL0nrk)
 > Personalized education tool built with LLMs + RAG. Reduced study time by 25% while improving comprehension.
+> Click on Title for a preview.
 
 - 🔧 Stack: `NestJS`, `Next.js`, `LLMs`, `RAG`, `Framer Motion`
 - 🎯 Built scalable APIs, real-time content flows, and a minimalist adaptive UI
-- 📽️ [Watch the demo](https://www.youtube.com/watch?v=AzM8jTL0nrk)
+- 💻 [Repo](https://github.com/Oslt-amira/AlexisAI-frontend)
 
 ---
 
 ### [📓 Kleo – Creative Calendar Reimagined](https://kleo-two.vercel.app/)
 > From structured productivity to creative archive. Emotionally intelligent, AI-powered interface for creatives.
-
+> Click on Title for a preview.
 - 🔧 Stack: `Next.js`, `Drizzle ORM`, `PostgreSQL`, `Tailwind`, `GSAP`, `OpenAI`
 - ✨ Cinematic UI, multimedia entries, and storytelling memory features
-- 🌐 [Explore the live app](https://kleo-two.vercel.app/)
+- 💻 [Repo](https://github.com/Oslt-amira/-kleo-)
 
 ---
 
@@ -52,10 +50,11 @@ Whether I’m designing adaptive UIs, embedding AI workflows, or choreographing 
 
 - 🔧 Stack: `Next.js`, `NestJS`, `Drizzle ORM`, `LLMs`
 - 📉 Goal: Reduce dev onboarding time by ~30%
+- 💻 [Repo] Currently private , stay tuned for the launch.
 
 ---
 
-> Stay tuned — I’m building a few private projects I can’t wait to share soon ✨
+> I’m building a few private projects I can’t wait to share soon ✨
 
 ---
 
