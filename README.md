@@ -81,24 +81,24 @@ I architect systems using **TypeScript**, **Next.js**, **NestJS**, and **Postgre
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
   
   <br />
   
-  <img src="https://streak-stats.demolab.com?user=Oslt-amira&theme=shadow_blue&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=oslt-amira&theme=shadow_blue&hide_border=true" />
   
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oslt-amira&theme=shadow_blue&hide_border=true&layout=compact" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslt-amira&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <br />
+  
+[![](https://visitcount.itsvg.in/api?id=oslt-amira&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-## 🤖 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oslt-amira&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oslt-amira&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oslt-amira&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=oslt-amira&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 
 ---
